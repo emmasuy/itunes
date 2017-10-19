@@ -1,0 +1,117 @@
+
+
+.font {
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 30px;
+    color: black;
+}
+
+.title {
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 100px;
+    margin-top:10px;
+}
+
+.album {
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 40px;
+}
+
+.b {
+    margin-bottom: 10px;
+}
+
+.front {
+    padding-top: 10px;
+    height: 60px;
+}
+
+.color {
+    background-color: lightgoldenrodyellow;
+    margin-bottom: 60px;
+}
+
+.btn-info {
+    background-color: lightgoldenrodyellow;
+    border-color: lightgoldenrodyellow;
+    color: black;
+    margin-bottom: 60px;
+    border-radius: 0px;
+}
+
+ul.my_unordered_list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+li.my_unordered_list_item_kikker {
+    background-image: url(../_assets/_img/kikker.jpg);
+    background-size: auto 20px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+li.my_unordered_list_item_kikker {
+    background-image: url(../_assets/_img/kikker.jpg);
+    background-size: auto 15px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    padding-left: 60px;
+    line-height: 25px;
+}
+
+li.my_unordered_list_item_olaf {
+    background-image: url(../_assets/_img/olaf.png);
+    background-size: auto 15px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    padding-left: 70px;
+}
+
+li.my_unordered_list_item_olaf {
+    background-image: url(../_assets/_img/olaf.png);
+    background-size: auto 15px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    padding-left: 40px;
+    line-height: 25px;
+}
+
+li.my_unordered_list_item_vaiana {
+    background-image: url(../_assets/_img/vaiana.jpg);
+    background-size: auto 15px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    padding-left: 70px;
+}
+
+li.my_unordered_list_item_vaiana {
+    background-image: url(../_assets/_img/vaiana.jpg);
+    background-size: auto 15px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    padding-left: 30px;
+    line-height: 30px;
+}
+
+
+
+
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { }
+
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
