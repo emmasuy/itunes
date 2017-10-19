@@ -47,14 +47,14 @@ ul.my_unordered_list {
 
 
 li.my_unordered_list_item_kikker {
-    background-image: url(../_assets/_img/kikker.jpg);
+    background-image: url(../assets/img/kikker.jpg);
     background-size: auto 20px;
     background-repeat: no-repeat;
     background-position: 0 0;
 }
 
 li.my_unordered_list_item_kikker {
-    background-image: url(../_assets/_img/kikker.jpg);
+    background-image: url(../assets/img/kikker.jpg);
     background-size: auto 15px;
     background-repeat: no-repeat;
     background-position: 0 0;
@@ -63,7 +63,7 @@ li.my_unordered_list_item_kikker {
 }
 
 li.my_unordered_list_item_olaf {
-    background-image: url(../_assets/_img/olaf.png);
+    background-image: url(../assets/img/olaf.png);
     background-size: auto 15px;
     background-repeat: no-repeat;
     background-position: 0 0;
@@ -71,7 +71,7 @@ li.my_unordered_list_item_olaf {
 }
 
 li.my_unordered_list_item_olaf {
-    background-image: url(../_assets/_img/olaf.png);
+    background-image: url(../assets/img/olaf.png);
     background-size: auto 15px;
     background-repeat: no-repeat;
     background-position: 0 0;
@@ -80,7 +80,7 @@ li.my_unordered_list_item_olaf {
 }
 
 li.my_unordered_list_item_vaiana {
-    background-image: url(../_assets/_img/vaiana.jpg);
+    background-image: url(../assets/img/vaiana.jpg);
     background-size: auto 15px;
     background-repeat: no-repeat;
     background-position: 0 0;
@@ -88,7 +88,7 @@ li.my_unordered_list_item_vaiana {
 }
 
 li.my_unordered_list_item_vaiana {
-    background-image: url(../_assets/_img/vaiana.jpg);
+    background-image: url(../assets/img/vaiana.jpg);
     background-size: auto 15px;
     background-repeat: no-repeat;
     background-position: 0 0;
