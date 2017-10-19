@@ -21,6 +21,14 @@
     margin-bottom: 10px;
 }
 
+.card-header {
+    text-align: center;
+}
+
+.collapsed {
+    color: lightskyblue;
+}
+
 .front {
     padding-top: 10px;
     height: 60px;
